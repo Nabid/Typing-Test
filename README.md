@@ -1,4 +1,4 @@
 Typing-Test
 ===========
 
-Consol application, typing test.
+Console application, typing test.
